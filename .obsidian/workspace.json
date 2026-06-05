@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "c0b51fb809edc323",
+    "type": "split",
+    "children": [
+      {
+        "id": "5778ea09cdc8ef68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2135b07bc38bafb1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3988657e8827e0c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aefa39abff726b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cfa922fcf0aa111",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "debd22ea8beb57a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "clone",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3387cbf8f434d11d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "04c0696230df48ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "c949c37950537019",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b480b1904f53bfd2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 Areas/Journal/my first note to inbox.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for my first note to inbox"
+            }
+          },
+          {
+            "id": "53857c685ba2ea71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 Areas/Journal/my first note to inbox.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from my first note to inbox"
+            }
+          },
+          {
+            "id": "f3b03d3ee31dcf72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "88b1b3d95dd0f59a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 Areas/Journal/my first note to inbox.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of my first note to inbox"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2135b07bc38bafb1",
+  "lastOpenFiles": [
+    "0 Inbox/Untitled 1.base",
+    "Untitled.canvas",
+    "templates/Zettel template.md",
+    "2 Areas/Journal/journal.md",
+    "0 Inbox/Untitled.base",
+    "2 Areas/Journal/my first note to inbox.md",
+    "4 Archive/Welcome.md",
+    "4 Archive/My test note.md",
+    "0 Inbox/Check.md",
+    "1 Projects/Wedding song",
+    "1 Projects/Holiday 2024/Finland Holiday 2025.md",
+    "2 Areas/Tech blog/Article - New AG for Containers in Azure.md",
+    "2 Areas/Journal",
+    "0 Inbox/Closing Off.md",
+    "0 Inbox/neovimnote.md",
+    "0 Inbox/Nordic Mythology.md",
+    "0 Inbox/Untitled.md",
+    "3 Resources/Notetaking/PARA.md",
+    "3 Resources/Filmmaking/Filmmaking.md",
+    "3 Resources/Filmmaking/Motion Blur.md",
+    "1 Projects/Holiday 2024/Idea about Holiday in Norway.md",
+    "1 Projects/Holiday 2024/Planning Holiday 2024.md",
+    "1 Projects/Holiday 2024/Sweden is a great country for hiking too.md",
+    "0 Inbox/Hello World 2.md",
+    "0 Inbox/Hello World.md",
+    "0 Inbox/Git Test.md",
+    "3 Resources/Notetaking",
+    "3 Resources/Untitled.md",
+    "templates",
+    "0 Inbox/neovimtest.md",
+    "0 Inbox/Test inbox note.md",
+    "2 Areas/Tech blog",
+    "3 Resources/Filmmaking",
+    "1 Projects/Holiday 2024",
+    "1 Projects/Planning holiday 2024/Holiday 2024.md",
+    "1 Projects/Planning holiday 2024"
+  ]
+}
