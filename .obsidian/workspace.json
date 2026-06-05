@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5778ea09cdc8ef68",
+        "id": "5672691f2df835d8",
         "type": "tabs",
         "children": [
           {
-            "id": "2135b07bc38bafb1",
+            "id": "00b66a5af097a537",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "0 Inbox/Untitled 2.base",
-                "viewName": "Table"
+                "file": "2 Areas/Journal/journal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled 2"
+              "icon": "lucide-file",
+              "title": "journal"
             }
           }
         ]
@@ -53,10 +54,10 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -73,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,15 +170,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2135b07bc38bafb1",
+  "active": "00b66a5af097a537",
   "lastOpenFiles": [
-    "0 Inbox/Untitled 2.base",
+    "2 Areas/Journal/Untitled.md",
     "0 Inbox/Untitled 1.base",
+    "0 Inbox/Untitled.base",
+    "3 Resources/Notetaking/PARA.md",
+    "2 Areas/Journal/my first note to inbox.md",
+    "2 Areas/Journal/journal.md",
+    "0 Inbox/Untitled 2.base",
     "Untitled.canvas",
     "templates/Zettel template.md",
-    "2 Areas/Journal/journal.md",
-    "0 Inbox/Untitled.base",
-    "2 Areas/Journal/my first note to inbox.md",
     "4 Archive/Welcome.md",
     "4 Archive/My test note.md",
     "0 Inbox/Check.md",
@@ -189,8 +191,6 @@
     "0 Inbox/Closing Off.md",
     "0 Inbox/neovimnote.md",
     "0 Inbox/Nordic Mythology.md",
-    "0 Inbox/Untitled.md",
-    "3 Resources/Notetaking/PARA.md",
     "3 Resources/Filmmaking/Filmmaking.md",
     "3 Resources/Filmmaking/Motion Blur.md",
     "1 Projects/Holiday 2024/Idea about Holiday in Norway.md",
@@ -207,7 +207,6 @@
     "2 Areas/Tech blog",
     "3 Resources/Filmmaking",
     "1 Projects/Holiday 2024",
-    "1 Projects/Planning holiday 2024/Holiday 2024.md",
-    "1 Projects/Planning holiday 2024"
+    "1 Projects/Planning holiday 2024/Holiday 2024.md"
   ]
 }
