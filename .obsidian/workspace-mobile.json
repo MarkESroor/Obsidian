@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "ed4c595342ec8994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Inbox/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,9 +167,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "7114cfad78b5d01c",
+  "active": "ed4c595342ec8994",
   "lastOpenFiles": [
     "0 Inbox/Untitled.md",
+    "0 Inbox/Untitled 1.md",
     "Untitled"
   ]
 }
