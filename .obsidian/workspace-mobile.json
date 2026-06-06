@@ -138,6 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -147,6 +148,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "59a4702ef11d4346",
+  "active": "7114cfad78b5d01c",
   "lastOpenFiles": []
 }
