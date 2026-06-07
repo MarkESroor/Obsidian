@@ -11,17 +11,10 @@
             "id": "00b66a5af097a537",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -9,
-                  "y": 1,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -173,19 +166,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "00b66a5af097a537",
+  "active": "0cfa922fcf0aa111",
   "lastOpenFiles": [
+    "0 Inbox/Untitled.base",
+    "0 Inbox/first file.md",
+    "0 Inbox/Untitled 1.base",
+    "templates/Zettel template.md",
+    "Untitled.canvas",
     "4 Archive/Notes To Keep.md",
     "1 Projects/Wedding song/Wedding Song.md",
     "2 Areas/Journal/journal.md",
     "2 Areas/Journal/Untitled.md",
-    "0 Inbox/Untitled 1.base",
-    "0 Inbox/Untitled.base",
     "3 Resources/Notetaking/PARA.md",
     "2 Areas/Journal/my first note to inbox.md",
     "0 Inbox/Untitled 2.base",
-    "Untitled.canvas",
-    "templates/Zettel template.md",
     "4 Archive/Welcome.md",
     "4 Archive/My test note.md",
     "0 Inbox/Check.md",
@@ -207,8 +201,6 @@
     "3 Resources/Notetaking",
     "3 Resources/Untitled.md",
     "templates",
-    "0 Inbox/neovimtest.md",
-    "0 Inbox/Test inbox note.md",
     "2 Areas/Tech blog",
     "3 Resources/Filmmaking",
     "1 Projects/Holiday 2024"
