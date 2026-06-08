@@ -11,10 +11,14 @@
             "id": "00b66a5af097a537",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 Projects/Wedding song/Wedding Song.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Wedding Song"
             }
           }
         ]
@@ -166,11 +170,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0cfa922fcf0aa111",
+  "active": "00b66a5af097a537",
   "lastOpenFiles": [
+    "2026-06-07.md",
+    "0 Inbox/Untitled 1.base",
     "0 Inbox/Untitled.base",
     "0 Inbox/first file.md",
-    "0 Inbox/Untitled 1.base",
     "templates/Zettel template.md",
     "Untitled.canvas",
     "4 Archive/Notes To Keep.md",
@@ -199,7 +204,6 @@
     "0 Inbox/Hello World.md",
     "0 Inbox/Git Test.md",
     "3 Resources/Notetaking",
-    "3 Resources/Untitled.md",
     "templates",
     "2 Areas/Tech blog",
     "3 Resources/Filmmaking",
