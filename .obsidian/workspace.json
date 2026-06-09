@@ -11,10 +11,14 @@
             "id": "f5747fd8d6c992e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 Projects/Wedding song/Wedding Song.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Wedding Song"
             }
           }
         ]
@@ -165,25 +169,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5747fd8d6c992e8",
+  "active": "0cfa922fcf0aa111",
   "lastOpenFiles": [
+    "2 Areas/Ess/Choir/Nayrooz 2026/nayrooz 2026.md",
+    "2 Areas/Ess/Choir/English Choir.md",
+    "2 Areas/Journal/Untitled.md",
+    "2 Areas/Journal/journal.md",
+    "2 Areas/Journal/my first note to inbox.md",
+    "2 Areas/Work/Work.md",
+    "2 Areas/Violin.md",
+    "3 Resources/Notetaking/PARA.md",
+    "4 Archive/Notes To Keep.md",
     "5 Daily Notes/2026-06-07.md",
     "0 Inbox/sarah.md",
-    "4 Archive/Notes To Keep.md",
-    "2 Areas/Violin.md",
-    "2 Areas/Work/Work.md",
     "Masters.md",
     "2 Areas/Work",
     "2 Areas/Ess/Service/ESS.md",
     "Khoras E3dady.md",
-    "2 Areas/Ess/Choir/English Choir.md",
     "2 Areas/Ess/Service",
     "2 Areas/Ess/Choir",
     "2 Areas/Ess/Untitled.md",
     "2 Areas/Ess",
     "2026-06-07.md",
     "1 projects/Nayrooz 2026/nayrooz 2026.md",
-    "2 Areas/Ess/Choir/Nayrooz 2026/nayrooz 2026.md",
     "2 Areas/Ess/Choir/Nayrooz 2026",
     "1 projects/Nayrooz 2026",
     "5 Daily Notes",
@@ -194,10 +202,6 @@
     "0 Inbox/first file.md",
     "templates/Zettel template.md",
     "Untitled.canvas",
-    "2 Areas/Journal/journal.md",
-    "2 Areas/Journal/Untitled.md",
-    "3 Resources/Notetaking/PARA.md",
-    "2 Areas/Journal/my first note to inbox.md",
     "4 Archive/Welcome.md",
     "4 Archive/My test note.md",
     "0 Inbox/Check.md",
