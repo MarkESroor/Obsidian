@@ -11,10 +11,14 @@
             "id": "59a4702ef11d4346",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 Projects/Wedding song/Wedding Song.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Wedding Song"
             }
           }
         ]
@@ -147,10 +151,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "7114cfad78b5d01c",
+  "active": "59a4702ef11d4346",
   "lastOpenFiles": [
-    "0 Inbox/nayrooz 2026.md",
+    "2 Areas/Work/Work.md",
+    "2 Areas/Violin.md",
     "5 Daily Notes/2026-06-07.md",
+    "0 Inbox/nayrooz 2026.md",
     "5 Daily Notes",
     "1 Projects/Nayrooz 2026/nayrooz 2026.md",
     "1 Projects/Nayrooz 2026",
