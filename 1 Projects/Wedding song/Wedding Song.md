@@ -8,11 +8,6 @@ Can i sing you a song?
 I know you wont just listen
 You'll sing along
 
-I couldnt find a song
-to say all i wanna say
-So i took them all
-
-
 
 chorus
 
