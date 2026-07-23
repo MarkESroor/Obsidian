@@ -1,5 +1,15 @@
 
-I
+I wanna tell you all about her
+But 
+
+Prechorus
+Can i hold your hand?
+Can i sing you a song?
+I know you wont just listen
+You'll sing along
+
+But this time let me 
+
 
 chorus
 
