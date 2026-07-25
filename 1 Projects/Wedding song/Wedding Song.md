@@ -1,13 +1,13 @@
 
 I wanna tell you all about her
-But 
+But she's a secret of mine
+
 
 Prechorus
 Can i hold your hand?
 Can i sing you a song?
 I know you wont just listen
 You'll sing along
-
 
 chorus
 
@@ -22,3 +22,6 @@ i give u all of me
 
 a photograph cant capture this 
 my grace my harmony 
+
+
+Verse 2
