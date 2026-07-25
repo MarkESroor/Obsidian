@@ -11,14 +11,13 @@
             "id": "f5747fd8d6c992e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "1 Projects/Wedding song/Wedding Song.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Wedding Song"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -78,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "04c0696230df48ff",
@@ -169,8 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cfa922fcf0aa111",
+  "active": "f5747fd8d6c992e8",
   "lastOpenFiles": [
+    "1 Projects/Wedding song/Wedding Song.md",
+    "Untitled.base",
     "2 Areas/Ess/Choir/Nayrooz 2026/nayrooz 2026.md",
     "2 Areas/Ess/Choir/English Choir.md",
     "2 Areas/Journal/Untitled.md",
@@ -195,10 +197,8 @@
     "2 Areas/Ess/Choir/Nayrooz 2026",
     "1 projects/Nayrooz 2026",
     "5 Daily Notes",
-    "1 Projects/Wedding song/Wedding Song.md",
     "0 Inbox",
     "0 Inbox/Untitled 1.base",
-    "0 Inbox/Untitled.base",
     "0 Inbox/first file.md",
     "templates/Zettel template.md",
     "Untitled.canvas",
@@ -206,7 +206,6 @@
     "4 Archive/My test note.md",
     "0 Inbox/Check.md",
     "1 Projects/Holiday 2024/Finland Holiday 2025.md",
-    "2 Areas/Tech blog/Article - New AG for Containers in Azure.md",
-    "0 Inbox/Closing Off.md"
+    "2 Areas/Tech blog/Article - New AG for Containers in Azure.md"
   ]
 }
