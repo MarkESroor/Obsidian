@@ -1,6 +1,7 @@
 
 I wanna tell you all about her
-But she's a secret of mine
+The greatest joy i've known
+
 
 
 Prechorus
