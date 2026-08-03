@@ -12,7 +12,8 @@ You'll sing along
 
 i couldnt find
 one song alone
-
+So I borrowed some pieces  
+to make my own
 
 chorus
 
