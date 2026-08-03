@@ -10,6 +10,10 @@ Can i sing you a song?
 I know you wont just listen
 You'll sing along
 
+i couldnt find
+one song alone
+
+
 chorus
 
 Im thinking out loud
@@ -26,3 +30,8 @@ my grace my harmony
 
 
 Verse 2
+
+God knows how much we've been through together
+and God knows I'll stay by you till the end of forever
+
+ 
