@@ -1,6 +1,9 @@
+i remember the day clearly
+i didnt even want to be there
+but a car ride later
+my life was never the same 
 
-I wanna tell you all about her
-The greatest joy i've known
+
 
 
 
@@ -35,4 +38,5 @@ Verse 2
 God knows how much we've been through together
 and God knows I'll stay by you till the end of forever
 
- 
+i love you more than a song would say
+my ray of sunshine on a cloudy day
