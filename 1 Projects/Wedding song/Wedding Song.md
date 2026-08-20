@@ -1,9 +1,10 @@
-i remember the day clearly
-i didnt even want to be there
+i remember the day 
+i didnt want to be there
 but a car ride later
-my life was never the same 
+was an answered prayer
 
-
+it wasnt chees. we never played
+i found my queen in a fool's mate
 
 
 
