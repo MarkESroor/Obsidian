@@ -5,6 +5,7 @@ was an answered prayer
 
 it wasnt chees. we never played
 i found my queen in a fool's mate
+sarah i love you 
 
 
 
