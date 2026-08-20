@@ -3,9 +3,11 @@ i didnt want to be there
 but a car ride later
 was an answered prayer
 
-it wasnt chees. we never played
+it wasnt chess. we never played
 i found my queen in a fool's mate
-sarah i love you 
+it was only a matter of time
+that iam yours and you are mine 
+
 
 
 
@@ -18,7 +20,7 @@ sing along
 i couldnt find
 one song alone
 So I borrowed some pieces  
-to make my own
+to make one our own
 
 chorus
 
@@ -42,3 +44,6 @@ and God knows I'll stay by you till the end of forever
 
 i love you more than a song would say
 my ray of sunshine on a cloudy day
+
+
+bridge 
