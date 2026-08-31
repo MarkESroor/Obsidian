@@ -61,5 +61,7 @@ but my faith is strong
 he'll calm any storm
 that comes along
 
-Whatever comes, 
+Whatever comes
 trust in your heart
+I'll love you forever
+till death do us part
