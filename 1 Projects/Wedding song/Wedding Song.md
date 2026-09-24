@@ -8,7 +8,6 @@ i found my queen in a fool's mate
 it was only a matter of time
 that iam yours and you are mine 
 
-
 Prechorus
 Can i hold your hand?
 Can i sing you a song?
