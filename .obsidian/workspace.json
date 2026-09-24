@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Projects/Wedding song/Wedding Song.md",
+                "file": "1 Projects/VRMasters/VRMasters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wedding Song"
+              "title": "VRMasters"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -171,6 +173,14 @@
   },
   "active": "94571f15d9d846eb",
   "lastOpenFiles": [
+    "1 Projects/Wedding song/Wedding Song.md",
+    "2 Areas/Journal/my first note to inbox.md",
+    "2 Areas/Work/Work.md",
+    "Home.md",
+    "START HERE.md",
+    "lists.md",
+    "UPDATE REPO.md",
+    "Tasks.md",
     "3 Resources/Notetaking/PARA.md",
     "4 Archive/Notes To Keep.md",
     "5 Daily Notes/2026-06-07.md",
@@ -182,13 +192,10 @@
     "Untitled 1.md",
     "Untitled 2.base",
     "Untitled.md",
-    "1 Projects/Wedding song/Wedding Song.md",
     "2 Areas/Ess/Choir/Nayrooz 2026/nayrooz 2026.md",
     "2 Areas/Ess/Choir/English Choir.md",
     "2 Areas/Journal/Untitled.md",
     "2 Areas/Journal/journal.md",
-    "2 Areas/Journal/my first note to inbox.md",
-    "2 Areas/Work/Work.md",
     "2 Areas/Violin.md",
     "0 Inbox/sarah.md",
     "Masters.md",
@@ -199,13 +206,9 @@
     "2 Areas/Ess/Choir",
     "2 Areas/Ess/Untitled.md",
     "2 Areas/Ess",
-    "2026-06-07.md",
-    "1 projects/Nayrooz 2026/nayrooz 2026.md",
     "2 Areas/Ess/Choir/Nayrooz 2026",
     "1 projects/Nayrooz 2026",
     "5 Daily Notes",
-    "0 Inbox/first file.md",
-    "templates/Zettel template.md",
     "Untitled.canvas"
   ]
 }
