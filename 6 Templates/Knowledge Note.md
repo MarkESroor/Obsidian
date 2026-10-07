@@ -1,7 +1,6 @@
 ---
 type: knowledge
 created: {{date:YYYY-MM-DD}}
-tags:
 ---
 
 # {{title}}
@@ -10,9 +9,12 @@ tags:
 
 Explain the idea in your own words.
 
-## Details
+## Source
 
-## Why it matters
+Link the source; distinguish what it says from your interpretation.
+
+## Where I can use this
 
 ## Related
 
+Link one relevant project, area, or existing idea when there is a useful connection.

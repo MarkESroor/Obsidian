@@ -1,24 +1,9 @@
-# {{date:dddd, MMMM D, YYYY}}
+# {{date:dddd, D MMMM YYYY}}
 
-[[Home]] · [[Tasks]] · [[0 Inbox/Inbox|Inbox]]
+[[Home]] · [[Tasks]] · [[Ideas]] · [[0 Inbox/Inbox|Inbox]]
 
 ## Focus
 
-- Most important outcome:
-- Second:
-- Third:
+Up to three outcomes for today, or links to the original tasks. Keep each checkbox in one place.
 
-## Tasks
-
-Add tasks here with **Tasks: Create or edit task**. Give a task a due date only when it has a real deadline.
-
-## Notes
-
-Capture events, thoughts, decisions, and quick links here.
-
-## End of day
-
-- Win:
-- Learned:
-- Needs clarification or moving:
-
+## Capture

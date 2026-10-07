@@ -19,7 +19,14 @@ Maintain a stable Quest 2 experiment build that captures the required room-build
 
 ## Next actions
 
-Add the next concrete actions here using **Tasks: Create or edit task**.
+Write tasks here or add `[[VRMasters]]` to a captured task. Choose one concrete action and mark it `#next`.
+
+```tasks
+not done
+(path includes 1 Projects/VRMasters/) OR (description includes [[VRMasters]])
+sort by priority
+sort by due
+```
 
 ## Project map
 
@@ -36,4 +43,3 @@ Link detailed notes only when you actually need them.
 ## Decisions
 
 ## Project log
-

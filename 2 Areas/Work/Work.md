@@ -17,11 +17,14 @@ Link current work projects here.
 
 ## Work tasks
 
+Write tasks in a work note, or add `[[Work]]` to a task captured elsewhere.
+
 ```tasks
 not done
-(path includes 2 Areas/Work) OR (path includes 1 Projects/Work)
+(path includes 2 Areas/Work) OR (path includes 1 Projects/Work) OR (description includes [[Work]])
 sort by due
 sort by priority
+group by filename
 ```
 
 ## Notes
