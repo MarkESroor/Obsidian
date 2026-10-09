@@ -1,39 +1,62 @@
 C             
 i remember the day 
-A
+Am
 i didnt want to be there
+F
 but a car ride later
+G
 was an answered prayer
 
+C
 it wasnt chess. we never played
+Am
 i found my queen in a fool's mate
+F
 it was only a matter of time
-that iam yours and you are mine 
+G
+that i was yours and you were mine 
 
 Prechorus
+F
 Can i hold your hand?
+G
 Can i sing you a song?
+Em
 I know you will
+F
 sing along
 
+F
 i couldnt find
+G
 one song alone
+Em
 So I borrowed some pieces  
+E
 to make one our own
 
 chorus
-
+C
 Im thinking out loud
+Am
 how perfect you are
+F
 a sky full of stars
+G
 the night we met
 
+C
 you're the sunflower
+Am
 the missing piece 
+F                     G
 i give u all of me
 
+Am          E            Am
 a photograph cant capture this 
+F              G         Am
 my grace my harmony 
+F             G            C
 my grace my harmony 
 
 Verse 2
@@ -72,15 +95,24 @@ my grace my harmony
 
 
 bridge 
-
+C G 
+            F
 I'm just a man
+          G            Am
 but my faith is strong
+               E
 he'll calm any storm
+               Am
 that comes along
 
+
+           F
 Whatever happens
+            G
 trust in your heart
+          F
 I'll love you forever
+             Fm
 till death do us part
 
 Chorus
