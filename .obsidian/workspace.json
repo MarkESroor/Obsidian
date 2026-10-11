@@ -10,15 +10,17 @@
           {
             "id": "94571f15d9d846eb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "1 Projects/Wedding song/Wedding Song.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Wedding Song"
             }
           }
         ]
