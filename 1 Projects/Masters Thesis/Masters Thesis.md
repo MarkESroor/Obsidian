@@ -18,14 +18,7 @@ Complete and defend the thesis on personalized multimodal mnemonics in immersive
 
 ## Next actions
 
-Write tasks here or add `[[Masters Thesis]]` to a captured task. Choose one concrete action and mark it `#next`.
-
-```tasks
-not done
-(path includes 1 Projects/Masters Thesis/) OR (description includes [[Masters Thesis]])
-sort by priority
-sort by due
-```
+Add the next concrete actions here using **Tasks: Create or edit task**.
 
 ## Project map
 
@@ -44,3 +37,4 @@ Create or link detailed notes only when you actually need them. Avoid creating e
 Record methodological or analysis decisions here, with links to supporting notes.
 
 ## Project log
+

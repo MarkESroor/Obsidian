@@ -8,19 +8,27 @@ created: {{date:YYYY-MM-DD}}
 
 ## Outcome
 
-What will be true when this is finished?
+What will be true when this project is finished?
+
+## Definition of done
+
+## Current status
+
+Write two or three sentences describing where things stand.
 
 ## Next actions
 
-Write tasks here, or link a captured task to `[[{{title}}]]`. Choose one concrete action and mark it `#next`.
+Add concrete tasks here using **Tasks: Create or edit task**.
 
-```tasks
-not done
-(path includes {{query.file.path}}) OR (description includes [[{{title}}]])
-sort by priority
-sort by due
-```
+## Decisions
 
-## Notes and decisions
+Record important decisions and why they were made.
 
-Keep useful context, sources, and the reasons for decisions here.
+## Notes and links
+
+## Project log
+
+### {{date:YYYY-MM-DD}}
+
+- Project created.
+

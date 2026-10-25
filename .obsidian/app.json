@@ -1,18 +1,6 @@
 {
-  "vimMode": false,
+  "vimMode": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "0 Inbox",
-  "promptDelete": false,
-  "openBehavior": "file:Home.md",
-  "mobilePullAction": "daily-notes",
-  "mobileToolbarCommands": [
-    "daily-notes",
-    "editor:toggle-checklist-status",
-    "obsidian-tasks-plugin:edit-task",
-    "editor:undo",
-    "editor:redo",
-    "editor:insert-wikilink",
-    "editor:attach-file",
-    "note-composer:split-file"
-  ]
+  "promptDelete": false
 }

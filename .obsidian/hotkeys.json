@@ -7,33 +7,15 @@
       "key": "M"
     }
   ],
-  "daily-notes": [
+  "templater-obsidian:templates/Zettel template.md": [
     {
       "modifiers": [
-        "Mod",
-        "Alt"
+        "Mod"
       ],
-      "key": "D"
+      "key": "I"
     }
   ],
-  "obsidian-tasks-plugin:edit-task": [
-    {
-      "modifiers": ["Mod", "Alt"],
-      "key": "T"
-    }
-  ],
-  "note-composer:split-file": [
-    {
-      "modifiers": ["Mod", "Shift"],
-      "key": "E"
-    }
-  ],
-  "bookmarks:open": [
-    {
-      "modifiers": ["Mod", "Alt"],
-      "key": "B"
-    }
-  ],
+  "editor:toggle-italics": [],
   "quick-explorer:browse-vault": [
     {
       "modifiers": [

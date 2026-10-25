@@ -1,9 +1,11 @@
-# Start here
+# Start Here
 
-1. Restart Obsidian once to load the updated settings, then open [[Home]].
-2. Press `Ctrl+Alt+D` on Windows to open today's note; press `Ctrl+End` and capture a thought. On your phone, pull down from the top after these settings have synced.
-3. Use a bullet for a thought and a checkbox for an action. No folder choice is needed while capturing.
-4. Spend five minutes sorting: useful ideas get `#idea`; tasks get `#next`, `#waiting`, or `#someday`.
-5. Work from [[Tasks]] and revisit [[Ideas]] weekly.
+Your vault is ready to work as a lightweight second brain.
 
-Read [[3 Resources/Notetaking/How to Use This Vault|How to use this vault]] for examples and phone setup. Your existing project, music, service, and journal content stays available in its folders.
+1. Open [[Home]].
+2. Use [[0 Inbox/Inbox|Inbox]] for anything you need to capture quickly.
+3. Put tasks inside the note they relate to; [[Tasks]] collects and sorts them automatically.
+4. Read [[3 Resources/Notetaking/How to Use This Vault|How to Use This Vault]] once, then begin using the system.
+
+Do not spend a week reorganizing everything. Start capturing and completing real work; improve the structure only when a genuine problem appears.
+
